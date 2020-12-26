@@ -9,3 +9,8 @@
 |1431|Kids With the Greatest Number of Candies|28 ms (43.94%)|13.2 MB (99.69%)|
 |1480|Running Sum of 1d Array|40 ms (13.67%)|13.6 MB (69.19%)|
 |1672|Richest Customer Wealth|36 ms (82.94%)|13.3 MB (81.95%)|
+
+## SQL
+###### Number of Solved Problems: 0
+|#|Title|Runtime|Memory Usage|
+|:---:|:---:|:---:|:---:|
