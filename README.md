@@ -1,6 +1,6 @@
 # LeetCode
 ## Python
-###### Number of Solved Problems: 6
+###### Number of Solved Problems: 7
 |#|Title|Runtime|Memory Usage|
 |:---:|:---:|:---:|:---:|
 |1|Two Sum|28 ms (94.73%)|13.5 MB (68.85%)|
