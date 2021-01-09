@@ -14,7 +14,8 @@
 |1672|Richest Customer Wealth|36 ms (82.94%)|13.3 MB (81.95%)|
 |1678|Goal Parser Interpretation|20 ms (51.53%)|13.4 MB (89.36%)|
 
-## SQL
-###### Number of Solved Problems: 0
+## MySQL
+###### Number of Solved Problems: 1
 |#|Title|Runtime|Memory Usage|
 |:---:|:---:|:---:|:---:|
+|595|Big Countries|227 ms (76.54%)|0 B (100.00%)|
