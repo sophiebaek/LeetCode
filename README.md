@@ -1,6 +1,6 @@
 # LeetCode
 ## Python
-###### Number of Solved Problems: 9
+###### Number of Solved Problems: 10
 |#|Title|Runtime|Memory Usage|
 |:---:|:---:|:---:|:---:|
 |1|Two Sum|28 ms (94.73%)|13.5 MB (68.85%)|
@@ -12,6 +12,7 @@
 |1480|Running Sum of 1d Array|40 ms (13.67%)|13.6 MB (69.19%)|
 |1512|Number of Good Pairs|16 ms (91.75%)|13.3 MB (72.72%)|
 |1672|Richest Customer Wealth|36 ms (82.94%)|13.3 MB (81.95%)|
+|1678|Goal Parser Interpretation|20 ms (51.53%)|13.4 MB (89.36%)|
 
 ## SQL
 ###### Number of Solved Problems: 0
