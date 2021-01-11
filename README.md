@@ -15,8 +15,9 @@
 |1678|Goal Parser Interpretation|20 ms (51.53%)|13.4 MB (89.36%)|
 
 ## MySQL
-###### Number of Solved Problems: 2
+###### Number of Solved Problems: 3
 |#|Title|Runtime|Memory Usage|
 |:---:|:---:|:---:|:---:|
 |595|Big Countries|227 ms (76.54%)|0 B (100.00%)|
+|620|Not Boring Movies|173 ms (79.73%)|0 B (100.00%)|
 |627|Swap Salary|190 ms (87.22%)|0 B (100.00%)|
